@@ -1,0 +1,2 @@
+# UnityBarracudaSample
+MnistのOnnxをUnityのBarracudaで動かす
